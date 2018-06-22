@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ec729faed49758440841e8bd4a43a8f5
+timeCreated: 1527777697
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH SELECT TERROR
+  fontNames:
+  - JMH SELECT TERROR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e49dc9a0a4ebec478e2cad060cdec59, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

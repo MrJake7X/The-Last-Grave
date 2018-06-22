@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: f6bf1f3419b345e459b97dd55cd828e1
+timeCreated: 1525948365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackLeftFoot
+    100002: BackRightFood
+    100004: Body
+    100006: //RootNode
+    100008: FrontLeftFoot
+    100010: FrontRightFoot
+    100012: Head
+    400000: BackLeftFoot
+    400002: BackRightFood
+    400004: Body
+    400006: //RootNode
+    400008: FrontLeftFoot
+    400010: FrontRightFoot
+    400012: Head
+    2100000: CreeperMat
+    2100002: BackLeftFootMat
+    2100004: BackRightFoodMat
+    2100006: BodyMat
+    2100008: FrontLeftFootMat
+    2100010: FrontRightFootMat
+    2100012: HeadMat
+    2300000: BackLeftFoot
+    2300002: BackRightFood
+    2300004: Body
+    2300006: FrontLeftFoot
+    2300008: FrontRightFoot
+    2300010: Head
+    3300000: BackLeftFoot
+    3300002: BackRightFood
+    3300004: Body
+    3300006: FrontLeftFoot
+    3300008: FrontRightFoot
+    3300010: Head
+    4300000: BackLeftFoot
+    4300002: BackRightFood
+    4300004: Body
+    4300006: FrontLeftFoot
+    4300008: FrontRightFoot
+    4300010: Head
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreeperMat
+    second: {fileID: 2100000, guid: ae30a382279eea9419117f938a1b26d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

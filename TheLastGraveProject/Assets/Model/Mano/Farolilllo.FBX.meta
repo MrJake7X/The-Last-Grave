@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 1af040194b980104a8eed196bd4afdda
+timeCreated: 1527232321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CC_Dedo_Corazon
+    100002: "CC_Dedo_Extra\xF1o"
+    100004: CC_Dedo_Indice
+    100006: "CC_Dedo_Me\xF1ique"
+    100008: CC_Dedo_Pulgar
+    100010: CC_Main
+    100012: D_Corazon
+    100014: "D_Extra\xF1o"
+    100016: D_Indice
+    100018: "D_Me\xF1ique"
+    100020: D_Pulgar
+    100022: //RootNode
+    100024: farolillo
+    100026: IK_Dedo_Corazon
+    100028: "IK_Dedo_Extra\xF1o"
+    100030: IK_Dedo_Indice
+    100032: "IK_Dedo_Me\xF1ique"
+    100034: IK_Dedo_Pulgar
+    100036: J_Brazo
+    100038: J_Corazon_1
+    100040: J_Corazon_2
+    100042: J_Corazon_3
+    100044: J_Corazon_4
+    100046: "J_Extra\xF1o_1"
+    100048: "J_Extra\xF1o_2"
+    100050: "J_Extra\xF1o_3"
+    100052: "J_Extra\xF1o_4"
+    100054: J_Indice_1
+    100056: J_Indice_2
+    100058: J_Indice_3
+    100060: J_Indice_4
+    100062: "J_Me\xF1ique_1"
+    100064: "J_Me\xF1ique_2"
+    100066: "J_Me\xF1ique_3"
+    100068: "J_Me\xF1ique_4"
+    100070: J_Palma
+    100072: J_Pulgar_1
+    100074: J_Pulgar_2
+    100076: J_Pulgar_3
+    100078: Mango
+    100080: Manita
+    100082: Manivela
+    100084: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100086: "\xA1\xA1\xD7\xFD\xD7\xFB 1"
+    100088: "\xD7\xFE\xD7\xFC"
+    100090: "\xD7\xFE\xD7\xFC 1"
+    400000: CC_Dedo_Corazon
+    400002: "CC_Dedo_Extra\xF1o"
+    400004: CC_Dedo_Indice
+    400006: "CC_Dedo_Me\xF1ique"
+    400008: CC_Dedo_Pulgar
+    400010: CC_Main
+    400012: D_Corazon
+    400014: "D_Extra\xF1o"
+    400016: D_Indice
+    400018: "D_Me\xF1ique"
+    400020: D_Pulgar
+    400022: //RootNode
+    400024: farolillo
+    400026: IK_Dedo_Corazon
+    400028: "IK_Dedo_Extra\xF1o"
+    400030: IK_Dedo_Indice
+    400032: "IK_Dedo_Me\xF1ique"
+    400034: IK_Dedo_Pulgar
+    400036: J_Brazo
+    400038: J_Corazon_1
+    400040: J_Corazon_2
+    400042: J_Corazon_3
+    400044: J_Corazon_4
+    400046: "J_Extra\xF1o_1"
+    400048: "J_Extra\xF1o_2"
+    400050: "J_Extra\xF1o_3"
+    400052: "J_Extra\xF1o_4"
+    400054: J_Indice_1
+    400056: J_Indice_2
+    400058: J_Indice_3
+    400060: J_Indice_4
+    400062: "J_Me\xF1ique_1"
+    400064: "J_Me\xF1ique_2"
+    400066: "J_Me\xF1ique_3"
+    400068: "J_Me\xF1ique_4"
+    400070: J_Palma
+    400072: J_Pulgar_1
+    400074: J_Pulgar_2
+    400076: J_Pulgar_3
+    400078: Mango
+    400080: Manita
+    400082: Manivela
+    400084: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400086: "\xA1\xA1\xD7\xFD\xD7\xFB 1"
+    400088: "\xD7\xFE\xD7\xFC"
+    400090: "\xD7\xFE\xD7\xFC 1"
+    2100000: ZBrushPolyMesh3DSG
+    2100002: lambert2SG
+    2100004: blinn1SG
+    2100006: lambert4SG
+    2100008: lambert3SG
+    2300000: farolillo
+    2300002: Mango
+    2300004: Manivela
+    3300000: farolillo
+    3300002: Mango
+    3300004: Manivela
+    4300000: Manita
+    4300002: Mango
+    4300004: farolillo
+    4300006: Manivela
+    7400000: Idle_Farol
+    7400002: Walk_Farol
+    9500000: //RootNode
+    13700000: Manita
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle_Farol
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Farol
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
